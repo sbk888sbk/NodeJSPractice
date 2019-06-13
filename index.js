@@ -21,7 +21,6 @@ app.get('/', (req, res) => {
         console.log(message.data);
         res.send(''+ message.data)
     }
-
     worker.postMessage();
 });
 
