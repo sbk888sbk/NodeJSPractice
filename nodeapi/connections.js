@@ -1,0 +1,1 @@
+module.exports = {MONGO_URI : 'mongodb+srv://testuser:15Rram6DXihKNuZQ@nodeapi-aueox.mongodb.net/test?retryWrites=true'}
