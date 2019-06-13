@@ -29,3 +29,5 @@ app.get('/fast', (req, res) => {
     res.send('This is fast!!!');
 });
 app.listen(3000);
+
+//Lesson 35 will resume back later as this is an advanced course!!!
